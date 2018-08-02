@@ -1,0 +1,54 @@
+body {
+  background-image: url('bg.jpeg');
+
+  background: url(bg.jpeg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: 'Noto Sans', sans-serif;
+}
+
+h1 {
+  color: white;
+  font-size: 50px;
+  font-weight: normal;
+  margin-bottom: 0;
+
+}
+
+h2 {
+  color: white;
+  font-size: 18px;
+  margin-top: 0;
+	}
+
+.bio {
+   color: white;
+   font-size:14px;
+}
+
+.me {
+   height: 151px;
+   width: 150px;
+   border-radius: 100%;
+   border-style: solid;
+   border-color: black; 
+   margin-top: 40px;
+}	
+
+.about {
+   width: 400px;
+   margin-left: auto;
+   margin-right: auto;
+   text-align: center;
+
+}
+
+.grey {
+	height: 6px;
+	background-color: #A1B2C4;
+	border: none; 
+	width: 50px;
+}
+
